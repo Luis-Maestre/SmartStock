@@ -17,7 +17,7 @@ No existen integraciones con sistemas externos en esta primera versión; toda la
 
 El siguiente diagrama representa el contexto del sistema utilizando el modelo **C4 - Nivel 1 (Context Diagram)**. En el se identifican los actores externos que interactúan con SmartStock ERP y las principales funciones que realizan dentro del sistema
 
-![Diagrama de Contexto (C1)](./images/diagrama-contexto-c1-smartstock.jpeg)
+![Diagrama de Contexto (C1)](./docs/images/diagrama-contexto-c1-smartstock.jpeg)
 
 **Figura 3.1.** Diagrama de Contexto (C1) de SmartStock ERP.
 

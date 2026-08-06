@@ -8,7 +8,7 @@ El siguiente diagrama representa los principales contenedores del sistema y la i
 
 ## 5.2 Diagrama de Contenedores (C2)
 
-![Diagrama de Contenedores](./images/diagrama-contenedores-c2-smartstock.jpeg)
+![Diagrama de Contenedores](./docs/images/diagrama-contenedores-c2-smartstock.jpeg)
 
 **Figura 5.1.** Diagrama de Contenedores (C2) de SmartStock ERP.
 

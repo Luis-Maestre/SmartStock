@@ -8,7 +8,7 @@ El siguiente diagrama de secuencia representa el flujo de ejecución del proceso
 
 ## 6.2 Diagrama de Secuencia
 
-![Diagrama de Secuencia](./images/diagrama-secuencia-smartstock.jpeg)
+![Diagrama de Secuencia](./docs/images/diagrama-secuencia-smartstock.jpeg)
 
 **Figura 6.1.** Diagrama de secuencia para el registro de un producto.
 
