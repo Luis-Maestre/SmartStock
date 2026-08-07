@@ -1,3 +1,12 @@
 # Architecture Constraints
 
-La arquitectura de SmartStock ERP está condicionada por el uso de React para el frontend, Node.js y Express.js para el backend, y MySQL como sistema gestor de bases de datos. Además, el proyecto se desarrollará bajo una arquitectura web cliente-servidor utilizando Git y GitHub para el control de versiones y el trabajo colaborativo
+SmartStock ERP se desarrollará como una aplicación web bajo una arquitectura cliente-servidor.
+
+Las principales decisiones tecnológicas son:
+
+- Frontend desarrollado con React.
+- Backend implementado con Node.js y Express.js.
+- Base de datos relacional MySQL.
+- Comunicación mediante una API REST utilizando formato JSON.
+- Control de versiones mediante Git y GitHub.
+- Arquitectura modular para facilitar el mantenimiento y futuras ampliaciones.
